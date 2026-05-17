@@ -107,7 +107,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["rust.wyzaddd.win"];
-pub const RS_PUB_KEY: &str = "4nB8XyKF3P0w6qk//kLhS8vQ4HIp7dD/AjR2d2IjxqA=";
+pub const RS_PUB_KEY: &str = "Y4mKLrdUQuwCRGIjXY7yhtxC2+Fgv0WAwCxW9efWRtc=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
